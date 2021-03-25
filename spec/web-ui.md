@@ -6,8 +6,8 @@
 
 - [Documentation for frontend](#documentation-for-frontend)
   - [Table of Contents](#table-of-contents)
-  - [📦 Spesification(#-repositories-)](#-spesification-repositories-)
-  - [⚙️ Spesification(#-spesification-)](#️-spesification-spesification-)
+  - [📦 Repostitories🔝](#-repostitories)
+  - [⚙️ Spesification🔝](#️-spesification)
     - [Frontpages](#frontpages)
     - [Backoffice](#backoffice)
   - [🧱 Tech Stack 🔝](#-tech-stack-)
@@ -20,14 +20,14 @@
   - [🤝 Contribution 🔝](#-contribution-)
   - [📝 License 🔝](#-license-)
 
-## 📦 Spesification(#-repositories-)
+## 📦 Repostitories[🔝](#table-of-contents)
 
 Related repositories:
 - [`main`](hhttps://github.com/adeka-factory/poneglyph): Main documentation and design
 - [`frontend-ui`](https://github.com/adeka-factory/poneglyph/spec/../../../../../web-ui.md): Frontend application
 - [`backend-api`](https://github.com/adeka-factory/poneglyph/spec/../../../web-api.md): Backend application
 
-## ⚙️ Spesification(#-spesification-)
+## ⚙️ Spesification[🔝](#table-of-contents)
 
 Enviroment have a two options : 
  - `development` pages in progress
