@@ -7,7 +7,7 @@
 |                            Frontend UI                          |                              Backend API                             |
 | :-----------------------------------------------------------------: | :--------------------------------------------------------------------: |
 | [![Web](#)](#) | [![API](#)](#) |
-| [template.azobu.com](#) |        [api.template.azobu.com](#)        |
+| [web.adeka.id](#) |        [api.adeka.id](#)        |
 
 
 ## Table of Contents
